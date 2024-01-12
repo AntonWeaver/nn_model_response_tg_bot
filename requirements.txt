@@ -1,0 +1,11 @@
+flask
+torch
+numpy
+transformers
+uvicorn
+fastapi
+pydantic
+telegram
+python-telegram-bot
+telebot
+asyncio
